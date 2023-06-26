@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Dicee",
+			"path": ".."
+		},
+		{
+			"name": "images",
+			"path": "../../../../Downloads/Dicee Challenge - Starting Files/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Dicee"
+	}
+}
